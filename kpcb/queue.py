@@ -15,6 +15,8 @@
 # should consider implementing a non-bounded queue.
 #
 # KPCB Fellows Application 2013
+#
+# To run (with tests): python queue.py
 #####################################################################
 
 """
